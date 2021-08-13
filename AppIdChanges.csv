@@ -1,34 +1,34 @@
-﻿"LZ
-subsciption";sam-nonprod-shared-skagen;;;;;
-CostCenter;Iac .json;AppId Service layer;App / RG / Workload;Applications;Note;
-6400;IC-0000;IC-6941;ABAT;IC-3591;Advanced Systems Active Batch;
-6400;IC-6685;no change;Cognos;IC-5266;;
-6400;IC-0000;IC-7215;Devtools;?;;
-6400;IC-0000;IC-6939;Easyrisk;IC-5273;;
-6400;IC-0000;IC-7216;File;?;;
-6400;IC-0000;IC-7217;Jira;IC-5274;Only in nonprod;
-6400;IC-0000;IC-6940;Njord;IC-5278;;
-6400;IC-6038;no change;ScomGW;IC-6700;Common infra;
-6400;IC-0000;IC-7017;Visma;IC-7015;run off but must be possible to revive;
-;;;;;;
-;;;;;;
-TODO;;;;;;
-resources;Trond Egil;;;;;
-;;;;;;
-;;;;;;
 "LZ
-subsciption";sam-prod-shared-skagen;;;;;
-CostCenter;Iac .json;AppId Service layer;App / RG / Workload;Applications;Note;
-6400;IC-6718;IC-6941;ABAT;IC-3591;Advanced Systems Active Batch;
-6400;IC-6685;no change;Cognos;IC-5266;;
-6400;IC-6400;IC-7215;Devtools;?;;
-6400;IC-6939;IC-6939;Easyrisk;IC-5273;;
-6400;IC-6685;IC-7216;File;?;;
-6400;IC-0000;IC-7217;Jira;IC-5274;Only in nonprod;
-6400;IC-6718;IC-6940;Njord;IC-5278;;
-6400;IC-6038;no change;ScomGW;IC-6700;Common infra;
-6400;IC-7017;IC-7017;Visma;IC-7015;run off but must be possible to revive;
-;;;;;;
-;;;;;;
-TODO;;;;;;
-resources;Trond Egil;;;;;
+subsciption",sam-nonprod-shared-skagen,Deploy date July,,,
+CostCenter,Iac .json,AppId Service layer,App / RG / Workload,Applications,Note
+6400,IC-0000,IC-6941,ABAT,IC-3591,Advanced Systems Active Batch
+6400,IC-6685,no change,Cognos,IC-5266,
+6400,IC-0000,IC-7215,Devtools,?,
+6400,IC-0000,IC-6939,Easyrisk,IC-5273,
+6400,IC-0000,IC-7216,File,?,
+6400,IC-0000,IC-7217,Jira,IC-5274,Only in nonprod
+6400,IC-0000,IC-6940,Njord,IC-5278,
+6400,IC-6038,no change,ScomGW,IC-6700,Common infra
+6400,IC-0000,IC-7017,Visma,IC-7015,run off but must be possible to revive
+,,,,,
+,,,,,
+TODO,,,,,
+resources,Trond Egil,,,,
+,,,,,
+,,,,,
+"LZ
+subsciption",sam-prod-shared-skagen,Deploy date July,,,
+CostCenter,Iac .json,AppId Service layer,App / RG / Workload,Applications,Note
+6400,IC-6718,IC-6941,ABAT,IC-3591,Advanced Systems Active Batch
+6400,IC-6685,no change,Cognos,IC-5266,
+6400,IC-6400,IC-7215,Devtools,?,
+6400,IC-6939,IC-6939,Easyrisk,IC-5273,
+6400,IC-6685,IC-7216,File,?,
+6400,IC-0000,IC-7217,Jira,IC-5274,Only in nonprod
+6400,IC-6718,IC-6940,Njord,IC-5278,
+6400,IC-6038,no change,ScomGW,IC-6700,Common infra
+6400,IC-7017,IC-7017,Visma,IC-7015,run off but must be possible to revive
+,,,,,
+,,,,,
+TODO,,,,,
+resources,Trond Egil,,,,
